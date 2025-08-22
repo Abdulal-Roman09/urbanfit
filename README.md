@@ -23,7 +23,7 @@ It includes **product listing, product details, authentication, dark/light mode,
 - ✅ **Toast Notifications** (`react-toastify`)
 - ✅ **Loading Page** & **Custom 404 Page**
 - ✅ **Responsive UI** with TailwindCSS
-- ✅ **Dark / Light Theme Toggle**
+
 
 ---
 
@@ -34,7 +34,6 @@ It includes **product listing, product details, authentication, dark/light mode,
 - [NextAuth.js](https://next-auth.js.org/) – Authentication  
 - [TailwindCSS](https://tailwindcss.com/) – Styling  
 - [React Icons](https://react-icons.github.io/react-icons/) – Icons  
-- [React Toastify](https://fkhadra.github.io/react-toastify/introduction) – Notifications  
 
 ---
 
